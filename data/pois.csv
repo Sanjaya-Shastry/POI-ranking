@@ -1,0 +1,201 @@
+poi_id,tags,price,popularity,open_days,remote
+0,museum architecture touristy,1,0.731,0 1 2 3 4 5 6,0
+1,activities local-gem,1,0.131,0 4 5,0
+2,kids nightlife,3,0.582,1 2 3 4 5 6,0
+3,museum touristy,2,0.824,0 3 5 6,1
+4,food kids,1,0.449,0 2 3 5,0
+5,activities shopping local-gem,2,0.682,1 2 3 4 5 6,0
+6,kids nightlife touristy,3,0.833,1 2 3 4 5,0
+7,activities local-gem,3,0.157,1 3 4 6,0
+8,museum nature local-gem,2,0.064,0 1 2 4 5,0
+9,activities local-gem,1,0.238,1 2 4,1
+10,nightlife architecture local-gem,2,0.227,1 2 3 4 5,0
+11,activities touristy,1,0.748,2 3 4 5 6,0
+12,kids local-gem,1,0.279,0 1 2 3 5 6,0
+13,nightlife history,2,0.646,2 3 4 5,1
+14,shopping food local-gem,3,0.356,0 1 2 3 4 6,0
+15,shopping nightlife local-gem,2,0.098,0 2 4 5 6,0
+16,shopping local-gem,3,0.049,1 3 4 6,0
+17,history food local-gem,3,0.821,0 1 2 5,0
+18,nature food local-gem,2,0.542,0 1 5,0
+19,nature art touristy,3,0.703,0 1 2 3 5 6,0
+20,shopping museum,1,0.469,0 1 2 3 5 6,0
+21,kids,1,0.879,1 2 3 5 6,0
+22,nature kids,1,0.729,2 3 6,0
+23,activities,3,0.545,0 1 3 4 5 6,0
+24,nightlife,3,0.302,0 1 2 4 5,1
+25,museum,1,0.721,0 1 2 3 4 6,0
+26,nature nightlife local-gem,2,0.252,0 1 4,0
+27,food activities,3,0.204,1 2 4 5 6,0
+28,shopping local-gem,1,0.502,2 3 6,0
+29,nightlife touristy,2,0.649,0 1 2 3 4 5 6,0
+30,shopping,3,0.483,0 2 3 4 5,1
+31,kids,2,0.744,1 3 4,0
+32,activities nature,1,0.329,0 2 5 6,1
+33,nature art touristy,1,0.561,0 1 3 4 5 6,0
+34,history,3,0.686,0 1 2 3 4 5 6,0
+35,nature food touristy,1,0.783,0 1 4,0
+36,museum history local-gem,2,0.57,0 2 3 5 6,0
+37,museum kids local-gem,2,0.191,0 1 4 5 6,0
+38,shopping touristy,1,0.913,0 1 2 3 4 6,0
+39,activities nature local-gem,1,0.29,0 1 2 6,0
+40,architecture activities local-gem,3,0.228,0 1 2 4 5,0
+41,nightlife architecture,2,0.385,0 3 6,0
+42,history activities,2,0.788,1 2 4 6,0
+43,architecture,1,0.642,0 2 3 4 5 6,1
+44,kids art touristy,2,0.643,2 3 5 6,0
+45,nature local-gem,1,0.31,0 1 2 4 6,0
+46,art touristy,1,0.596,0 2 3 4 5 6,0
+47,history local-gem,1,0.429,1 3 4 5 6,0
+48,history art touristy,3,0.599,0 1 2 3 4 6,0
+49,architecture touristy,2,0.653,0 1 2 3 4 5 6,0
+50,nature nightlife touristy,3,0.74,1 2 3,0
+51,nature touristy,2,0.422,2 4 6,0
+52,art food local-gem,3,0.177,0 1 2 3 4 5 6,0
+53,nature,3,0.772,0 1 2 3 4 5 6,1
+54,architecture museum,3,0.465,0 1 2 3 5 6,0
+55,shopping activities,2,0.353,3 5 6,0
+56,art,2,0.8,1 2 3 4 5,0
+57,art food local-gem,3,0.451,0 1 2 3 4 5 6,0
+58,history,1,0.801,0 1 2 3 4 5 6,0
+59,history touristy,1,0.819,0 1 4 5,0
+60,kids touristy,2,0.59,0 1 3 4 6,0
+61,architecture touristy,1,0.849,0 1 2 3 4 5 6,0
+62,food,2,0.726,0 1 2,0
+63,activities local-gem,2,0.195,2 4 6,1
+64,history food local-gem,3,0.185,0 1 2 4 5 6,0
+65,art,2,0.746,0 1 2 3 4 5,1
+66,nightlife touristy,3,0.803,0 2 3 4 5,1
+67,food nature local-gem,3,0.29,1 2 3 4 5 6,0
+68,activities nightlife touristy,3,0.787,0 1 2 3 4,0
+69,kids touristy,1,0.782,0 2 5 6,0
+70,nature art local-gem,1,0.023,0 1 4 5 6,1
+71,shopping nightlife,3,0.429,0 1 2 3 4 5 6,0
+72,shopping food,1,0.524,0 1 3 5 6,0
+73,kids,1,0.635,1 2 5 6,0
+74,activities local-gem,1,0.136,1 2 3 4 5 6,0
+75,activities history,3,0.023,0 1 2 3 4 5 6,0
+76,nightlife,2,0.503,2 4 5,0
+77,shopping architecture,1,0.399,1 2 6,1
+78,kids art local-gem,2,0.449,0 1 2 3 4 5,0
+79,nightlife nature touristy,2,0.853,0 2 4 5 6,0
+80,shopping touristy,1,0.891,1 2 3 4 5 6,0
+81,nightlife local-gem,1,0.157,0 1 2 3 4 5 6,0
+82,history,2,0.925,0 1 3 4 6,0
+83,museum history local-gem,2,0.082,0 1 2 3 4 5 6,0
+84,activities local-gem,3,0.11,0 2 3 4 6,0
+85,nightlife,2,0.668,0 2 3 4 5 6,0
+86,nightlife museum,1,0.39,1 4 6,0
+87,nightlife museum local-gem,1,0.279,0 3 4 6,0
+88,kids touristy,2,0.69,0 4 6,1
+89,museum nightlife touristy,3,0.941,0 1 2 3 4 5 6,0
+90,kids local-gem,3,0.35,0 1 5,1
+91,nature museum,2,0.492,0 1 2 3 4 6,1
+92,museum local-gem,2,0.156,0 1 2 3 4 6,0
+93,nature art local-gem,3,0.166,1 4 5 6,0
+94,museum nightlife touristy,2,0.772,1 2 3 4 5 6,0
+95,food touristy,1,0.96,0 1 2 4 6,0
+96,museum activities local-gem,2,0.764,0 1 2 3 4 5 6,1
+97,food activities,3,0.311,0 1 2 3 4 5 6,0
+98,food nightlife touristy,3,0.89,0 3 5 6,0
+99,activities history,2,0.66,0 1 2 3 4 6,0
+100,shopping local-gem,3,0.263,0 1 3 4 5 6,0
+101,shopping local-gem,2,0.347,1 3 4,0
+102,kids museum,3,0.679,0 2 4 5 6,1
+103,food nightlife touristy,2,0.569,0 3 4 5,0
+104,history nature local-gem,1,0.096,3 5 6,0
+105,art local-gem,3,0.486,0 2 3 4 5 6,0
+106,nature touristy,3,0.957,0 1 2 3 4 5 6,0
+107,museum architecture local-gem,1,0.017,0 1 3 4 5 6,0
+108,food,2,0.312,0 1 2 3 4 5 6,0
+109,food shopping local-gem,1,0.377,0 1 3 4 5 6,0
+110,history touristy,3,0.684,0 1 2 3 4 5 6,0
+111,history local-gem,1,0.121,1 2 3 4 6,0
+112,art local-gem,2,0.215,3 4 5 6,0
+113,architecture history local-gem,1,0.045,0 1 2 3 4,0
+114,nightlife nature,1,0.597,0 1 4 5,0
+115,activities touristy,2,0.692,0 1 2 3 4 6,1
+116,art local-gem,1,0.537,0 1 2 3 4 5 6,0
+117,history food,2,0.258,0 1 2 3 4 5 6,0
+118,kids architecture local-gem,3,0.266,0 1 2 3 4 5 6,0
+119,nightlife kids,2,0.543,0 1 2 6,0
+120,food kids local-gem,1,0.191,0 1 2 3 4 5 6,0
+121,museum,2,0.562,0 1 2 3 4 6,0
+122,shopping activities,1,0.868,1 2 3 4 5,0
+123,shopping nature local-gem,3,0.2,0 1 3 5 6,1
+124,history touristy,3,0.652,0 2 4 5,0
+125,kids touristy,1,0.504,0 1 3 4 5,0
+126,museum food local-gem,3,0.139,0 1 2 3 4 5 6,0
+127,architecture museum local-gem,1,0.713,0 1 4,1
+128,nature shopping touristy,2,0.811,0 2 3,0
+129,history local-gem,3,0.489,0 1 2 4 6,0
+130,shopping,3,0.447,0 3 4 6,0
+131,museum nature touristy,3,0.845,0 1 2 3 4 5 6,0
+132,kids touristy,2,0.84,0 4 5,1
+133,architecture nightlife local-gem,3,0.068,0 2 4 5 6,0
+134,food,1,0.305,0 1 2 3 4 6,0
+135,food,3,0.386,0 1 2 5 6,0
+136,shopping local-gem,2,0.251,0 2 3 4 5 6,1
+137,food touristy,1,0.565,0 2 5,0
+138,activities,2,0.506,0 2 3,1
+139,history,1,0.372,0 1 2 3 4 5 6,1
+140,architecture,1,0.862,0 3 4 5 6,0
+141,kids local-gem,1,0.209,0 1 2 5 6,0
+142,architecture touristy,2,0.803,0 1 2 3 4 5 6,0
+143,art local-gem,2,0.186,3 4 5,0
+144,architecture touristy,1,0.57,1 2 4 5 6,0
+145,museum local-gem,1,0.32,1 2 4 5 6,1
+146,museum activities,1,0.858,0 2 3 4 5,0
+147,kids architecture touristy,2,0.768,0 1 2 3 4 5 6,1
+148,history touristy,3,0.964,0 2 3 4 5,1
+149,nature kids touristy,1,0.904,0 1 3 4,1
+150,food,2,0.917,0 3 4 5 6,0
+151,history touristy,3,0.547,0 1 3 4 6,1
+152,architecture,2,0.825,0 1 2 3 6,1
+153,architecture touristy,1,0.629,0 1 2 3 4 5 6,1
+154,nightlife art,2,0.207,0 1 2 3 4 5 6,0
+155,museum,2,0.666,0 2 4 5 6,1
+156,art local-gem,2,0.247,0 1 2 3 4 5 6,1
+157,history museum touristy,3,0.746,0 1 2 3 4 5 6,0
+158,food museum local-gem,3,0.344,0 1 2 3 4 6,0
+159,museum local-gem,1,0.365,0 1 5,1
+160,activities touristy,1,0.937,0 1 4 5 6,0
+161,food kids local-gem,1,0.262,2 3 4 6,0
+162,architecture kids local-gem,3,0.14,0 1 2 3 4,0
+163,nature activities,1,0.693,1 3 4 5 6,1
+164,nature shopping touristy,2,0.427,0 1 2 4 5,0
+165,history local-gem,2,0.17,0 1 2 3 5 6,0
+166,museum activities local-gem,1,0.552,0 1 3 5 6,0
+167,architecture activities local-gem,2,0.329,1 2 3 6,0
+168,history nature,3,0.563,0 5 6,0
+169,food kids local-gem,2,0.473,0 1 3 5 6,0
+170,shopping museum touristy,1,0.714,0 1 2 4 5 6,0
+171,food touristy,1,0.95,0 1 2 5 6,0
+172,history kids touristy,1,0.641,1 2 6,0
+173,nature activities local-gem,1,0.332,1 4 6,0
+174,nature,1,0.704,0 1 2 3 4 5 6,0
+175,art local-gem,3,0.246,0 4 5,0
+176,museum,2,0.796,1 2 3 4 5 6,1
+177,nature local-gem,2,0.125,1 3 4,0
+178,kids art local-gem,2,0.16,1 3 6,0
+179,food local-gem,2,0.459,0 1 2 3 4 5,0
+180,activities kids,3,0.296,0 3 4 5 6,1
+181,museum activities touristy,3,0.853,0 1 2 3 4 5 6,0
+182,kids local-gem,2,0.021,0 1 2 5,0
+183,museum kids local-gem,1,0.191,0 3 5,0
+184,nightlife touristy,2,0.615,0 2 5 6,0
+185,museum local-gem,1,0.234,0 2 3 4 5 6,0
+186,nightlife architecture,3,0.693,0 1 2 4 6,0
+187,museum architecture,2,0.167,0 1 2 3 4 5,0
+188,nightlife,3,0.5,0 2 5,1
+189,activities,2,0.681,3 4 6,0
+190,nature history,3,0.48,0 1 2 3 4 5 6,1
+191,art nightlife,2,0.316,0 3 5 6,0
+192,kids local-gem,1,0.026,3 4 5,1
+193,nature,1,0.208,0 1 2 3 5,0
+194,nightlife local-gem,1,0.329,0 1 2 4 5,1
+195,nightlife art local-gem,3,0.172,1 2 6,0
+196,history art,2,0.807,0 1 2 4 5,1
+197,shopping,2,0.278,0 2 3 5,0
+198,food,2,0.32,3 4 5,1
+199,food local-gem,2,0.15,2 3 4 6,0
